@@ -3,7 +3,7 @@ This is a Translator web app with Flask framework in Python language. When user 
 
 ## Implementation
 * Flask framework
-* Oput-mt-en-fi model
+* [Oput-mt-en-fi model](https://huggingface.co/Helsinki-NLP/opus-mt-en-fi)
 * Transformers Pipeline
 
 ## Demo
