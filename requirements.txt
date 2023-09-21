@@ -33,9 +33,6 @@ sentencepiece==0.1.99
 six==1.16.0
 sympy==1.12
 tokenizers==0.13.3
-
-torchaudio==2.0.2
-
 tqdm==4.66.1
 transformers==4.33.2
 typing_extensions==4.8.0
